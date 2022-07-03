@@ -1,0 +1,29 @@
+{
+    "name": "aula2",
+    "version": "1.0.3",
+    "description": "binance cryptos api",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "startest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kseidel92/aula2.git"
+    },
+    "keywords": [
+        "aula2"
+    ],
+    "author": "klauseidel92",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/kseidel92/aula2/issues"
+    },
+    "homepage": "https://github.com/kseidel92/aula2#readme",
+    "dependencies": {
+        "async": "^2.6.0",
+        "binance-api-node": "^0.10.34",
+        "cron": "^1.8.2",
+        "fs": "0.0.1-security"
+    }
+}
